@@ -2,7 +2,7 @@
 
 This project is mainly to collect some userful categories, it contains `NSArray`, `NSString`, `UIImage`, `UIView` ,`UIBarButtonItem` ,`Foundation` and so on. This project is only for learn to study, without any commercial use. 
 
-We also refer to the others coding, thanks to the people who wrote these techniques!
+We also refer to some other people's codes, thanks to the people who wrote these techniques!
 
 This repository will be maintained for a long time. Of course, we can learn and progress together, thank you!
 
