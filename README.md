@@ -1,6 +1,6 @@
-#About Project
+#About Repo
 
-This project is mainly to collect some userful categories, it contains `NSArray`, `NSString`, `UIImage`, `UIView` ,`UIBarButtonItem` ,`Foundation` and so on. This project is only for learn to study, without any commercial use. 
+This repository mainly collects some userful categories, it contains `NSArray`, `NSString`, `UIImage`, `UIView` ,`UIBarButtonItem` ,`Foundation` and so on. The repository is only for learn to study, without any commercial use. 
 
 We also refer to some other people's codes, thanks to the people who wrote these techniques!
 
